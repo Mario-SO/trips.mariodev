@@ -9,7 +9,7 @@ interface CountryCardProps {
 export default function CountryCard({ country, index }: CountryCardProps) {
   return (
     <div 
-      className="animate-fadeIn space-y-2 p-3 border border-gray-200 rounded-lg hover:border-gray-300 transition-colors duration-200"
+      className="animate-fadeIn space-y-2 p-3 border border-gray-200 rounded-xs hover:border-gray-300 transition-colors duration-200"
       style={{ animationDelay: `${index * 0.1}s` }}
     >
       <div className="flex items-center space-x-2 mb-2">

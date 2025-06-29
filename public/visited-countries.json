@@ -169,5 +169,43 @@
     },
     "timeZone": "UTC-4 (AST)",
     "callingCode": "+1"
+  },
+  {
+    "id": "denmark",
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "population": 6001008,
+    "area": 43094,
+    "areaUnit": "km²",
+    "currency": {
+      "code": "DKK",
+      "name": "Danish Krone"
+    },
+    "flagEmoji": "🇩🇰",
+    "coordinates": {
+      "latitude": 56.26392,
+      "longitude": 9.501785
+    },
+    "timeZone": "UTC+1 (CET)",
+    "callingCode": "+45"
+  },
+  {
+    "id": "andorra",
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "population": 87486,
+    "area": 468,
+    "areaUnit": "km²",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro"
+    },
+    "flagEmoji": "🇦🇩",
+    "coordinates": {
+      "latitude": 42.5063,
+      "longitude": 1.5218
+    },
+    "timeZone": "UTC+1 (CET)",
+    "callingCode": "+376"
   }
 ]
