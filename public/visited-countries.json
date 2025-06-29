@@ -1,0 +1,40 @@
+[
+  {
+    "id": "norway",
+    "name": "Norway",
+    "capital": "Oslo",
+    "population": 5601049,
+    "area": 385207,
+    "areaUnit": "km²",
+    "currency": {
+      "code": "NOK",
+      "name": "Norwegian Krone"
+    },
+    "flagEmoji": "🇳🇴",
+    "coordinates": {
+      "latitude": 60.472,
+      "longitude": 8.4689
+    },
+    "timeZone": "UTC+1 (CET)",
+    "callingCode": "+47"
+  },
+  {
+    "id": "sweden",
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "population": 10656633,
+    "area": 450295,
+    "areaUnit": "km²",
+    "currency": {
+      "code": "SEK",
+      "name": "Swedish Krona"
+    },
+    "flagEmoji": "🇸🇪",
+    "coordinates": {
+      "latitude": 60.1282,
+      "longitude": 18.6435
+    },
+    "timeZone": "UTC+1 (CET)",
+    "callingCode": "+46"
+  }
+]
