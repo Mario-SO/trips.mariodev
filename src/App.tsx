@@ -1,9 +1,8 @@
+import CountriesList from './components/CountriesList';
+import './App.css';
+
 function App() {
-  return (
-    <div className="bg-red-500">
-      hello world
-    </div>
-  );
+  return <CountriesList />;
 }
 
 export default App;
