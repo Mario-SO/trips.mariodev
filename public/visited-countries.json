@@ -207,5 +207,24 @@
     },
     "timeZone": "UTC+1 (CET)",
     "callingCode": "+376"
+  },
+  {
+    "id": "finland",
+    "name": "Finland",
+    "capital": "Helsinki",
+    "population": 5635971,
+    "area": 338145,
+    "areaUnit": "km²",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro"
+    },
+    "flagEmoji": "🇫🇮",
+    "coordinates": {
+      "latitude": 64.0,
+      "longitude": 26.0
+    },
+    "timeZone": "UTC+2 (EET)",
+    "callingCode": "+358"
   }
 ]
