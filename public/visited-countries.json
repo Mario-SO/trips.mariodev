@@ -6,15 +6,9 @@
     "population": 5601049,
     "area": 385207,
     "areaUnit": "km²",
-    "currency": {
-      "code": "NOK",
-      "name": "Norwegian Krone"
-    },
+    "currency": { "code": "NOK", "name": "Norwegian Krone" },
     "flagEmoji": "🇳🇴",
-    "coordinates": {
-      "latitude": 60.472,
-      "longitude": 8.4689
-    },
+    "coordinates": { "latitude": 60.472, "longitude": 8.4689 },
     "timeZone": "UTC+1 (CET)",
     "callingCode": "+47"
   },
@@ -25,15 +19,9 @@
     "population": 10656633,
     "area": 450295,
     "areaUnit": "km²",
-    "currency": {
-      "code": "SEK",
-      "name": "Swedish Krona"
-    },
+    "currency": { "code": "SEK", "name": "Swedish Krona" },
     "flagEmoji": "🇸🇪",
-    "coordinates": {
-      "latitude": 60.1282,
-      "longitude": 18.6435
-    },
+    "coordinates": { "latitude": 60.1282, "longitude": 18.6435 },
     "timeZone": "UTC+1 (CET)",
     "callingCode": "+46"
   },
@@ -44,15 +32,9 @@
     "population": 47450795,
     "area": 505992,
     "areaUnit": "km²",
-    "currency": {
-      "code": "EUR",
-      "name": "Euro"
-    },
+    "currency": { "code": "EUR", "name": "Euro" },
     "flagEmoji": "🇪🇸",
-    "coordinates": {
-      "latitude": 40.463667,
-      "longitude": -3.74922
-    },
+    "coordinates": { "latitude": 40.463667, "longitude": -3.74922 },
     "timeZone": "UTC+1 (CET)",
     "callingCode": "+34"
   },
@@ -63,15 +45,9 @@
     "population": 10425292,
     "area": 92090,
     "areaUnit": "km²",
-    "currency": {
-      "code": "EUR",
-      "name": "Euro"
-    },
+    "currency": { "code": "EUR", "name": "Euro" },
     "flagEmoji": "🇵🇹",
-    "coordinates": {
-      "latitude": 39.399872,
-      "longitude": -8.224454
-    },
+    "coordinates": { "latitude": 39.399872, "longitude": -8.224454 },
     "timeZone": "UTC+0 (WET)",
     "callingCode": "+351"
   },
@@ -82,15 +58,9 @@
     "population": 37737267,
     "area": 312696,
     "areaUnit": "km²",
-    "currency": {
-      "code": "PLN",
-      "name": "Polish Zloty"
-    },
+    "currency": { "code": "PLN", "name": "Polish Zloty" },
     "flagEmoji": "🇵🇱",
-    "coordinates": {
-      "latitude": 51.919438,
-      "longitude": 19.145136
-    },
+    "coordinates": { "latitude": 51.919438, "longitude": 19.145136 },
     "timeZone": "UTC+1 (CET)",
     "callingCode": "+48"
   },
@@ -101,15 +71,9 @@
     "population": 71801279,
     "area": 513120,
     "areaUnit": "km²",
-    "currency": {
-      "code": "THB",
-      "name": "Thai Baht"
-    },
+    "currency": { "code": "THB", "name": "Thai Baht" },
     "flagEmoji": "🇹🇭",
-    "coordinates": {
-      "latitude": 15.870032,
-      "longitude": 100.992541
-    },
+    "coordinates": { "latitude": 15.870032, "longitude": 100.992541 },
     "timeZone": "UTC+7 (ICT)",
     "callingCode": "+66"
   },
@@ -120,15 +84,9 @@
     "population": 67791400,
     "area": 243610,
     "areaUnit": "km²",
-    "currency": {
-      "code": "GBP",
-      "name": "British Pound"
-    },
+    "currency": { "code": "GBP", "name": "British Pound" },
     "flagEmoji": "🇬🇧",
-    "coordinates": {
-      "latitude": 55.378051,
-      "longitude": -3.435973
-    },
+    "coordinates": { "latitude": 55.378051, "longitude": -3.435973 },
     "timeZone": "UTC+0 (GMT)",
     "callingCode": "+44"
   },
@@ -139,15 +97,9 @@
     "population": 68605616,
     "area": 643801,
     "areaUnit": "km²",
-    "currency": {
-      "code": "EUR",
-      "name": "Euro"
-    },
+    "currency": { "code": "EUR", "name": "Euro" },
     "flagEmoji": "🇫🇷",
-    "coordinates": {
-      "latitude": 46.227638,
-      "longitude": 2.213749
-    },
+    "coordinates": { "latitude": 46.227638, "longitude": 2.213749 },
     "timeZone": "UTC+1 (CET)",
     "callingCode": "+33"
   },
@@ -158,15 +110,9 @@
     "population": 11532151,
     "area": 48671,
     "areaUnit": "km²",
-    "currency": {
-      "code": "DOP",
-      "name": "Dominican Peso"
-    },
+    "currency": { "code": "DOP", "name": "Dominican Peso" },
     "flagEmoji": "🇩🇴",
-    "coordinates": {
-      "latitude": 18.735693,
-      "longitude": -70.162651
-    },
+    "coordinates": { "latitude": 18.735693, "longitude": -70.162651 },
     "timeZone": "UTC-4 (AST)",
     "callingCode": "+1"
   },
@@ -177,15 +123,9 @@
     "population": 6001008,
     "area": 43094,
     "areaUnit": "km²",
-    "currency": {
-      "code": "DKK",
-      "name": "Danish Krone"
-    },
+    "currency": { "code": "DKK", "name": "Danish Krone" },
     "flagEmoji": "🇩🇰",
-    "coordinates": {
-      "latitude": 56.26392,
-      "longitude": 9.501785
-    },
+    "coordinates": { "latitude": 56.26392, "longitude": 9.501785 },
     "timeZone": "UTC+1 (CET)",
     "callingCode": "+45"
   },
@@ -196,15 +136,9 @@
     "population": 87486,
     "area": 468,
     "areaUnit": "km²",
-    "currency": {
-      "code": "EUR",
-      "name": "Euro"
-    },
+    "currency": { "code": "EUR", "name": "Euro" },
     "flagEmoji": "🇦🇩",
-    "coordinates": {
-      "latitude": 42.5063,
-      "longitude": 1.5218
-    },
+    "coordinates": { "latitude": 42.5063, "longitude": 1.5218 },
     "timeZone": "UTC+1 (CET)",
     "callingCode": "+376"
   },
@@ -215,16 +149,23 @@
     "population": 5635971,
     "area": 338145,
     "areaUnit": "km²",
-    "currency": {
-      "code": "EUR",
-      "name": "Euro"
-    },
+    "currency": { "code": "EUR", "name": "Euro" },
     "flagEmoji": "🇫🇮",
-    "coordinates": {
-      "latitude": 64.0,
-      "longitude": 26.0
-    },
+    "coordinates": { "latitude": 64.0, "longitude": 26.0 },
     "timeZone": "UTC+2 (EET)",
     "callingCode": "+358"
+  },
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45696160,
+    "area": 2780400,
+    "areaUnit": "km²",
+    "currency": { "code": "ARS", "name": "Argentine Peso" },
+    "flagEmoji": "🇦🇷",
+    "coordinates": { "latitude": -38.416097, "longitude": -63.616672 },
+    "timeZone": "UTC-3 (ART)",
+    "callingCode": "+54"
   }
 ]
